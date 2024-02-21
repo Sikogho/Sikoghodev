@@ -1,4 +1,4 @@
-<h1 align="center">DevOps/Cloud Engineer </h1>
+<h1 align="center">DevOps/Cloud Eng </h1>
 <h3 align="left">Accomplished Cloud Engineer and AWS Certified Solutions Architect possessing a robust background in Azure Administration and DevOps Engineering. Boasting over 11 years of extensive professional experience, with a dedicated focus on AWS DevOps and Cloud Engineering for 8 years, I have consistently demonstrated excellence in crafting and enhancing cloud-based solutions, automating workflows, implementing CI/CD pipelines, and fortifying cloud security measures. My unwavering dedication to pioneering scalable systems, coupled with my profound expertise in AWS and Azure technologies, positions me as an invaluable contributor to any organizational endeavor.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sikogho&label=Profile%20views&color=0e75b6&style=flat" alt="sikogho" /> </p>
@@ -18,3 +18,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sikogho&show_icons=true&locale=en" alt="sikogho" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sikogho&" alt="sikogho" /></p>
+
